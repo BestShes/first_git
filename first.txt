@@ -4,8 +4,15 @@
 *****
 뿅
 
+<<<<<<< HEAD
 Branches test
 Branches test
 Branches test
 Branches test
 Branches test
+=======
+
+——수정——
+
+브런치 테스트를 위해 수정함. 
+>>>>>>> parent of 7a7f6df... 두번쨰 branches
