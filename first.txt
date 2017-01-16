@@ -4,9 +4,17 @@
 *****
 뿅
 
+<<<<<<< HEAD
 
 ——수정——
 
 기존 작성한 글을 삭제함.
 
 두번째 branches를 위한 것.
+=======
+Branches test
+Branches test
+Branches test
+Branches test
+Branches test
+>>>>>>> c78be1309450f9599a27154ed3761cdd402dedb8
