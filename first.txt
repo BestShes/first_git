@@ -4,6 +4,6 @@
 *****
 뿅
 
-
+Local Repository
+Remote Repository
 ___
-
